@@ -189,6 +189,5 @@ Retail-Customer-Insights-Analytics/
 
 **Krish Agrawal**  
 B.Tech, NIT Raipur
-Aspiring Data Analyst  
 
-Skills: Python | SQL | Power BI | Data Analytics
+⭐ If you found this project useful, consider giving it a **star**!
